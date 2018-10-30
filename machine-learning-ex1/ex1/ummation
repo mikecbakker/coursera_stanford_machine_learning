@@ -1,0 +1,19 @@
+Variables in the current scope:
+
+   Attr Name           Size                     Bytes  Class
+   ==== ====           ====                     =====  ===== 
+        X             47x3                       1128  double
+        alpha          1x1                          8  double
+        ans            3x3                         72  double
+        data          47x3                       1128  double
+        h             47x1                        376  double
+        m              1x1                          8  double
+        mu             1x2                         16  double
+        num_iters      1x1                          8  double
+        sigma          1x2                         16  double
+        summation      1x3                         24  double
+        theta          3x1                         24  double
+        y             47x1                        376  double
+
+Total is 398 elements using 3184 bytes
+
